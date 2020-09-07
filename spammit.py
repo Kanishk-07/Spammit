@@ -9,7 +9,7 @@ from colorama import Fore, Back, Style
 print(Fore.GREEN)
 print("##############################################")
 print("#Script Name	:SPAMMIT                     #")
-print("#Description	:Message spammer             #")
+print("#Description	:Text spammer                #")
 print("#Author         :Kanishk                     #")
 print("#Instagram      :@kanishk_007_               #")
 print("##############################################")
@@ -54,7 +54,6 @@ time.sleep(limit/1000)
 
 print(Fore.BLUE)
 print("> End of spam :(")
-print("> Follow me on Instagram => @kanishk_007_")
 print("> Au Revoir!")
 
 
